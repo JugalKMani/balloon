@@ -1,0 +1,10 @@
+# This is a Gitignore file for Unity projects
+
+# This is important for Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
